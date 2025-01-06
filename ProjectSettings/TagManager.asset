@@ -5,6 +5,18 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - BeachBall
+  - Rock
+  - Seagull
+  - Sign
+  - Dog
+  - TrashCan
+  - Drone
+  - Spill
+  - Laser
+  - Meteor
+  - UFO
+  - LASERRR
   layers:
   - Default
   - TransparentFX
@@ -41,4 +53,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Shop/Menu
+    uniqueID: 1346752067
+    locked: 0
+  - name: Objects
+    uniqueID: 4185907245
+    locked: 0
+  - name: Background
+    uniqueID: 1083066671
     locked: 0
